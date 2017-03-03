@@ -1,2 +1,2 @@
 # git_porfolio
-git portfolio
+git portfolio that contains some good homework examples
